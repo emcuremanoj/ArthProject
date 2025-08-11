@@ -1,0 +1,509 @@
+[
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Myth",
+    "statement": "Only poor hygiene causes vaginal infections.",
+    "truth": "Infections can be caused by hormonal changes, tight clothing, or even stress.",
+    "productLine": "Soothe discomfort and maintain balance with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Myth"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Myth",
+    "statement": "You should wash the intimate area with regular soap.",
+    "truth": "Regular soaps can disrupt pH balance; use mild, pH-balanced products instead.",
+    "productLine": "Protect pH balance daily with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Myth"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Myth",
+    "statement": "Intimate area needs to smell like flowers or perfume.",
+    "truth": "Vaginas have a natural scent—fragrance-loaded products can be harmful.",
+    "productLine": "Stay fresh without irritation—choose Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Myth"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Myth",
+    "statement": "Discharge always indicates infection.",
+    "truth": "Some discharge is normal and healthy; only certain types indicate infection.",
+    "productLine": "Calm itch and irritation with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Myth"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Fact",
+    "statement": "Wearing tight synthetic underwear can cause irritation.",
+    "truth": "Yes, tight non-breathable fabric can trap moisture, leading to issues.",
+    "productLine": "Help soothe rashes and redness with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Fact"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Myth",
+    "statement": "Itching in the intimate area is always due to STIs.",
+    "truth": "It can also be due to dryness, sweat, or pH imbalance.",
+    "productLine": "Ease daily discomforts with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Myth"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Myth",
+    "statement": "It's okay to scrub the intimate area hard while bathing.",
+    "truth": "Harsh scrubbing can damage delicate skin and increase irritation.",
+    "productLine": "Be gentle—nourish and protect with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Myth"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Fact",
+    "statement": "Hormonal changes during periods or menopause can cause dryness.",
+    "truth": "Yes, estrogen drop can lead to intimate dryness and irritation.",
+    "productLine": "Soothe hormonal dryness with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Fact"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Myth",
+    "statement": "All vaginal infections are the same.",
+    "truth": "Bacterial vaginosis, yeast infections, and UTIs are all different conditions.",
+    "productLine": "Support your skin while managing discomfort with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Myth"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Fact",
+    "statement": "Sweating in the intimate area can lead to fungal infections.",
+    "truth": "Yes, warm and moist environments encourage fungal growth.",
+    "productLine": "Use Arth Intimate Cream to prevent itch and maintain comfort.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Fact"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Myth",
+    "statement": "Itching during summers is normal and doesn't need attention.",
+    "truth": "Persistent itching could be a sign of imbalance or infection.",
+    "productLine": "Treat seasonal irritation with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Myth"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Myth",
+    "statement": "Shaving or waxing doesn't affect the skin of intimate areas.",
+    "truth": "Hair removal can cause bumps, dryness, and redness.",
+    "productLine": "Calm post-shave/wax irritation with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Myth"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Fact",
+    "statement": "Pregnant women may also experience intimate area irritation.",
+    "truth": "Hormonal shifts and pressure can cause sensitivity and dryness.",
+    "productLine": "Safe, soothing care during pregnancy with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Fact"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Myth",
+    "statement": "You shouldn't use any cream near your intimate area.",
+    "truth": "Safe, dermatologically tested creams can soothe dryness and itch.",
+    "productLine": "Choose doctor-recommended Arth Intimate Cream for comfort.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Myth"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Fact",
+    "statement": "Wearing panty liners for too long can cause irritation.",
+    "truth": "Extended wear traps moisture and causes chafing.",
+    "productLine": "Soothe everyday irritants with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Fact"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Myth",
+    "statement": "Using talcum powder keeps the area dry and healthy.",
+    "truth": "Talc can clog pores and has been linked to long-term irritation.",
+    "productLine": "Choose safer nourishment with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Myth"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Fact",
+    "statement": "Post workout sweat can cause intimate skin rashes.",
+    "truth": "Yes, bacteria thrive in sweaty, moist conditions.",
+    "productLine": "Calm rashes and redness post-workout with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Fact"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Myth",
+    "statement": "You should avoid cleaning your vulva altogether.",
+    "truth": "Clean gently with water or mild products, not avoiding it entirely.",
+    "productLine": "Maintain hygiene gently with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Myth"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Myth",
+    "statement": "Wearing wet clothes for long has no impact on vaginal health.",
+    "truth": "Wet swimwear or gym wear increases risk of infection.",
+    "productLine": "Apply Arth Intimate Cream to protect after exposure.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Myth"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Fact",
+    "statement": "Poor sleep and stress can impact vaginal health.",
+    "truth": "Yes, they affect immunity and hormonal balance.",
+    "productLine": "Support your skin barrier with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Fact"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Myth",
+    "statement": "Darkening of intimate skin is always a hygiene issue.",
+    "truth": "It may be due to hormonal changes or friction.",
+    "productLine": "Even tone and comfort with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Myth"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Myth",
+    "statement": "Period blood is impure and causes infection.",
+    "truth": "Menstrual blood is not impure—it doesn’t cause infection by itself.",
+    "productLine": "Don't let myths dictate your care—choose Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Myth"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Fact",
+    "statement": "Vaginal pH can get disrupted due to soaps or antibiotics.",
+    "truth": "Yes, both can kill helpful bacteria and lead to imbalance.",
+    "productLine": "Restore balance and ease irritation with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Fact"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Myth",
+    "statement": "Scented wipes are safer than creams for intimate care.",
+    "truth": "Scented wipes may have alcohol or fragrance which causes dryness.",
+    "productLine": "Skip the irritation—nourish daily with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Myth"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Fact",
+    "statement": "Vaginal skin is more sensitive than other body parts.",
+    "truth": "Yes, it’s thinner and more delicate.",
+    "productLine": "Be extra gentle with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Fact"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Myth",
+    "statement": "You must clean inside the vagina every day.",
+    "truth": "Vagina is self-cleaning—clean only external parts.",
+    "productLine": "Cleanse and soothe externally with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Myth"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Myth",
+    "statement": "Intimate issues only happen in older age.",
+    "truth": "Young women also face irritation, infection, and dryness.",
+    "productLine": "Daily gentle care for all ages with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Myth"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Fact",
+    "statement": "Daily stress affects your intimate health.",
+    "truth": "Yes, stress lowers immunity and may lead to infections.",
+    "productLine": "Calm stress-related sensitivity with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Fact"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Myth",
+    "statement": "Feminine care products are only for treating infections.",
+    "truth": "They are also important for daily preventive care.",
+    "productLine": "Prevent discomfort before it starts with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Myth"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Myth",
+    "statement": "You shouldn't use any product during your period.",
+    "truth": "External use creams are safe and soothing even during periods.",
+    "productLine": "Stay irritation-free during periods with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Myth"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Fact",
+    "statement": "Irritation can occur after intercourse.",
+    "truth": "Yes, due to friction or sensitivity.",
+    "productLine": "Calm post-intercourse redness with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Fact"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Myth",
+    "statement": "Pregnancy eliminates the risk of vaginal infection.",
+    "truth": "You are still vulnerable due to hormonal changes.",
+    "productLine": "Gentle care for expecting moms with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Myth"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Fact",
+    "statement": "Excessive washing can lead to dryness.",
+    "truth": "Yes, over-washing strips natural oils.",
+    "productLine": "Moisturize and protect with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Fact"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Myth",
+    "statement": "Discoloration in intimate area is always a sign of poor health.",
+    "truth": "It could be genetic, hormonal or due to friction.",
+    "productLine": "Smooth, even-toned skin with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Myth"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Myth",
+    "statement": "Feminine creams are only for use during infections.",
+    "truth": "They’re also helpful for daily comfort and prevention.",
+    "productLine": "Support everyday wellness with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Myth"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Fact",
+    "statement": "Irritation after cycling or sports is common.",
+    "truth": "Yes, due to friction and sweat.",
+    "productLine": "Post-activity comfort with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Fact"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Myth",
+    "statement": "Menstrual pads can't cause skin problems.",
+    "truth": "Friction from pads can lead to rashes or itching.",
+    "productLine": "Calm pad-related irritation with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Myth"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Fact",
+    "statement": "Certain medications can cause dryness in intimate areas.",
+    "truth": "Yes, some antibiotics and hormonal meds can do this.",
+    "productLine": "Hydrate and heal with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Fact"
+  },
+  {
+    "product": "Arth Intimate Cream",
+    "type": "Myth",
+    "statement": "All intimate creams are unsafe for long-term use.",
+    "truth": "Only harsh, chemical-laden ones are. Gentle, herbal creams are safe.",
+    "productLine": "Safe daily use with Arth Intimate Cream.",
+    "productImage": "assets/images/product10.png",
+    "options": [
+      "Myth",
+      "Fact"
+    ],
+    "correct": "Myth"
+  }
+]
