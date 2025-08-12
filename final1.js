@@ -370,12 +370,12 @@ const size = canvas.width * 0.28;
 
 const bubbles = [
   {
-    x: leftEarX - size - 20,
+    x: leftEarX - size - 100,
     y: earY - size / 2,
     label: question.options[0]
   },
   {
-    x: rightEarX + 20,
+    x: rightEarX + 100,
     y: earY - size / 2,
     label: question.options[1]
   }
